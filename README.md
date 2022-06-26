@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Step to build app
+* rails new shopping-cart -d mysql
